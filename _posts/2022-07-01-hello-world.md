@@ -26,6 +26,5 @@ on the first try～
 //代码片段
 int main(){
   printf("hello world\n");
-  return 0;
 }
 ```
